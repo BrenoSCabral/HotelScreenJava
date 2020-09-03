@@ -25,9 +25,7 @@ import javafx.stage.Stage;
  * @author breno
  */
 public class TelaCadastroHotel extends Application {
-    
-    //O exercicio nao deixou claro se era necessario implementar ao modelo de hotel ou somente fazer
-    // a tela. Como foi ensinado somente a fazer a tela, eh isso que estarei fazendo.
+   
     @Override
     public void start(Stage stage) throws Exception {
         Insets padrao = new Insets(0,0,10,0);
